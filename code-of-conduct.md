@@ -45,8 +45,8 @@ If the matter is especially urgent, please call/contact any of these individuals
 -
 - Procedure for Handling Harassment
 - ------------------------------------------
-- - [Attendee Procedure for incident handling](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents/)
-- - [Staff Procedure for incident handling](https://us.pycon.org/2013/about/code-of-conduct/harassment-incidents-staff/)
+- - [Attendee Procedure for incident handling](/attendee-procedure.md)
+- - [Staff Procedure for incident handling](/staff-procedure.md)
 -
 - License
 - -------
