@@ -38,21 +38,22 @@ If you are being harassed, notice that someone else is being harassed, or have a
 If the matter is especially urgent, please call/contact any of these individuals:
 
 - Kushal Das at +91 8605430990
-- - Anwesha Das at +91 8805339063
-- - Nisha Poyarekar +91 7350069425
-- - Chandan Kumar +91 8380909403
--- Sayan Chowdhury at +91 9686992532
+- Anwesha Das at +91 8805339063
+- Nisha Poyarekar +91 7350069425
+- Chandan Kumar +91 8380909403
+- Sayan Chowdhury at +91 9686992532
 -
-- Conference staff will be happy to help participants contact college/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
--
-- Procedure for Handling Harassment
-- ------------------------------------------
-- - [Attendee Procedure for incident handling](/attendee-procedure.md)
-- - [Staff Procedure for incident handling](/staff-procedure.md)
--
-- License
-- -------
--
-- This Code of Conduct was forked from the example policy from the [Geek Feminism wiki, created by the Ada Initiative and other volunteers.](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) which is under a Creative Commons Zero license.
--
-- <a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Conference Code of Conduct</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://us.pycon.org/2013/about/code-of-conduct/" property="cc:attributionName" rel="cc:attributionURL">https://us.pycon.org/2013/about/code-of-conduct/</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
+
+Conference staff will be happy to help participants contact college/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+
+Procedure for Handling Harassment
+------------------------------------------
+- [Attendee Procedure for incident handling](/attendee-procedure.md)
+- [Staff Procedure for incident handling](/staff-procedure.md)
+
+License
+-------
+
+This Code of Conduct was forked from the example policy from the [Geek Feminism wiki, created by the Ada Initiative and other volunteers.](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) which is under a Creative Commons Zero license.
+
+<a rel="license" href="http://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by/3.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Conference Code of Conduct</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://us.pycon.org/2013/about/code-of-conduct/" property="cc:attributionName" rel="cc:attributionURL">https://us.pycon.org/2013/about/code-of-conduct/</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.
