@@ -42,7 +42,7 @@ If the matter is especially urgent, please call/contact any of these individuals
 - Nisha Poyarekar +91 7350069425
 - Chandan Kumar +91 8380909403
 - Sayan Chowdhury at +91 9686992532
--
+
 
 Conference staff will be happy to help participants contact college/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
 
