@@ -26,7 +26,7 @@ The staff is well informed on how to deal with the incident and how to further p
 
 3\. If everyone is presently physically safe, involve law enforcement or security only at a victim's request.
 If you do feel your safety in jeopardy please do not hesitate to contact local law enforcement by
-dialing 911. If you do not have a cell phone, you can use any hotel phone or simply ask a staff member.
+dialing 100 (for police in india). If you do not have a cell phone, you can use any hotel phone or simply ask a staff member.
 
 **Note**: Incidents that violate the Code of Conduct are extremely damaging to the community, and they
 will not be tolerated. The silver lining is that, in many cases, these incidents present a chance for
